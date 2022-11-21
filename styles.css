@@ -1,0 +1,14 @@
+.main-image {
+    max-height: 250px;
+    max-width: 100%;
+}
+
+.action-button {
+    background: #00a89e;
+    color: #fff;
+}
+
+.action-button:hover {
+    background: #11b7ac;
+    color: #fff;
+}
